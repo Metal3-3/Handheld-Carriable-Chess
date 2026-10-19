@@ -8,5 +8,9 @@ It uses a cheap yellow display esp32 (ESP32-2432S028R) 18650 2800 Mah 7.4v batte
 The og code was made by Sergey Urusov for the arduino mega but it has been modified to be used with cyd (uses lovyangfx instead)
 (https://projecthub.arduino.cc/Sergey_Urusov/794c19d4-03bd-4a71-b669-eb8fcbe9ce7b)
 
+## Test demo
+https://wokwi.com/projects/478338530674584577
+it might not work as its a simulator or i couldnt get it right
+
 ## Size specification
 94x35x58
